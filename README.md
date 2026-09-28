@@ -1,6 +1,6 @@
 # 👋 Welcome,
 
-My name is Ivan Campaneli. I'm a developer specialized in automation, RPA, and data analysis, focused on building smart Python-based solutions that deliver real value — with efficiency, security, and scalability.
+I'm a developer specialized in automation, RPA, and data analysis, focused on building smart Python-based solutions that deliver real value — with efficiency, security, and scalability.
 
 ---
 
